@@ -1,7 +1,10 @@
-![UCU](../Assets/logo-ucu.png)
-# Ejercicio del tema Expert & SRP-Sistema de consultas médicas
-## Programación II
-### FIT - Universidad Católica del Uruguay
+# Universidad Católica del Uruguay
+<img src="https://ucu.edu.uy/sites/all/themes/univer/logo.png">
+
+## Facultad de Ingeniería y Tecnologías
+### Programación II
+
+### Sistema de consultas médicas
 
 Como desarrolladores de software, se nos pide hacer el mantenimiento de un sistema de gestión médica, especifícamente se nos pide que hagamos mantenimiento de la funcionalidad de coordinación de consultas. Para ello debemos tener en cuenta que:
 1. Se podrían agregar otros datos del paciente como por ejemplo su edad.
